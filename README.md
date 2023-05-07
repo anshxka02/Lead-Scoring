@@ -38,6 +38,8 @@ The EDA will involve exploring the dataset to gain insights and identify pattern
 - `Lead Scoring Case Study.ipynb`: This is the Jupyter notebook containing the entire code for this case study.
 - `leads.csv`: This is the dataset that we will be using in this case study.
 - `README.md`: This file.
+- `Assignment Questions`- Answer of the questions can be asked from this case study.
+- `Summary Report`- The summary of whole case study
 
 ## Dependencies
 
